@@ -2,7 +2,7 @@ Package: SSreEstimate
 Type: Package
 Title: Sample size re-estimate using conditional power and bayesian predictive power 
 Version: 0.1.0
-Author: 2023 DIA team NoLNG
+Author: moonsleaf
 Maintainer: Peng Ye <yourself@somewhere.net>
 Description: This is a package for sample size re-estimation using conditional power and bayesian predictive power.
 License: MIT + file LICENSE
